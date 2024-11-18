@@ -3,7 +3,7 @@
 ## Installation
 
 1. **Download the mod**:  
-   [Click here to download the mod](https://github.com/MoreKronos/One-Life-7-Days-To-Die-Mod/releases) *(replace with actual download link)*
+   [Click here to download the mod](https://github.com/MoreKronos/One-Life-7-Days-To-Die-Mod/releases) scroll around for a release that suits you
 
 2. **Clone or download this repository** to your computer.
 
