@@ -31,4 +31,6 @@
 
 ## Info
 
-The OneLifeMod for 7 Days to Die introduces a hardcore gameplay mechanic: if your character dies, you get permenantly stuck on the death screen. This mod enforces a "one life only" rule, adding a high-stakes challenge to your gameplay.
+- **The OneLifeMod for 7 Days to Die introduces a hardcore gameplay mechanic: if your character dies, you get permenantly stuck on the death screen. This mod enforces a "one life only" rule, adding a high-stakes challenge to your gameplay.**
+
+- **AND YES THIS WILL BE UP TO DATE EVERYTIME THERE IS A NEW UPDATE.**
