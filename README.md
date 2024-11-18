@@ -1,4 +1,4 @@
-##OneLifeMod for 7 Days to Die
+# OneLifeMod for 7 Days to Die
 
 Installation
 Download the mod:
