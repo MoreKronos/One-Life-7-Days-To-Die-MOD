@@ -22,3 +22,8 @@
 
 - **7 Days to Die** (Alpha 20 or later).
 - **Harmony Library** (Required for patching the game), which is part of the downloads.
+
+## Notes
+
+- **When you die the game just closes...
+- **yes i know very lazy but thats the only way i found to do it...
