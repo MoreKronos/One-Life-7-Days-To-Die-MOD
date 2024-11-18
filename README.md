@@ -25,5 +25,5 @@
 
 ## Notes
 
-- **When you die the game just closes...
-- **yes i know very lazy but thats the only way i found to do it...
+- **When you die the game just closes...**
+- **yes i know very lazy but thats the only way i found to do it...**
