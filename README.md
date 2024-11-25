@@ -1,6 +1,6 @@
 # OneLifeMod for 7 Days to Die
 
-## Please Download From [NexusMods Here](https://github.com/MoreKronos/One-Life-7-Days-To-Die-Mod/releases)
+## Please Download From [NexusMods](https://github.com/MoreKronos/One-Life-7-Days-To-Die-Mod/releases)
 
 ## Installation
 
